@@ -20,4 +20,6 @@ Critérios de Aceitação:
  Links 
 
 [Planilha de Casos de Testes](https://docs.google.com/spreadsheets/d/1pingnXnxlcUQjM2e94bSGQLtsQBfdTmpaMravzh1KbM/edit?usp=sharing)
+
+
 [Evidências de Teste](https://drive.google.com/file/d/1oIMaG85JJeAsTMHgoBo9Vb4LoGISKeS1/view?usp=drive_link)
